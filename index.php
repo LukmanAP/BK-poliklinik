@@ -29,18 +29,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
 <body class="hold-transition sidebar-mini">
 <div class="wrapper">
 
-<?php
-    include("components/navbar.php");
-?>
 
-<?php
-    include("components/sidebar.php");
-?>
-<div class="content-wrapper">
-    <?php
-        include("pages/obat/obat.php");
-    ?>
-</div>
 
 
   
